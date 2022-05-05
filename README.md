@@ -3,6 +3,8 @@
   <br/>
   <h5>Anasayfa<h5>
 <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/Anasayfa.png"/>
+    <h5>Sepete Ekle Butonu<h5>
+  <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/SepeteEkleButonu.png"/>
     <h5>Urun Detay Ekrani<h5>
 <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/UrunDetayEkrani.png"/>
  <h5>Urun Detay Ekrani2<h5>
@@ -13,8 +15,7 @@
   <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/HesapBilgilerim.png"/>
 <h5>Siparişlerime Ait Mail<h5>
   <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/OlusturulanSiparisMaili.png"/>
-<h5>Sepete Ekle Butonu<h5>
-  <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/SepeteEkleButonu.png"/>
+
 <h5>Sepetim<h5>
   <img src="https://github.com/busranurbaydur/ECommerceLiteProjectPicture/blob/main/Sepetim.png"/>
 <h5>Sipariş Mailinde Gelen Qr Kod<h5>
